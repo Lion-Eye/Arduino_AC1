@@ -8,12 +8,12 @@ AC 1 TINKERCAD:
 Integrantes:
 
 Fernanda Alves 
-Montagem TinkerCad 
+Montagem TinkerCad
 Configuração de códigos 
  ![image](https://user-images.githubusercontent.com/79206783/113358846-ea0cb200-931c-11eb-8008-c5d490f5dfbc.png)
 
 Giulia Nobre 
-Configuração código  
+Configuração código
 Readme
  ![image](https://user-images.githubusercontent.com/79206783/113358950-23ddb880-931d-11eb-916e-34e936bf6af2.png)
 
