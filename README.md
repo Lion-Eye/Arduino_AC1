@@ -8,21 +8,23 @@ AC 1 TINKERCAD:
 Integrantes:
 
 Fernanda Alves 
-Montagem TinkerCad
-Configuração de códigos 
- ![image](https://user-images.githubusercontent.com/79206783/113358846-ea0cb200-931c-11eb-8008-c5d490f5dfbc.png)
+Montagem no TinkerCad 
+Configuração de código
 
-Giulia Nobre 
-Configuração código
-Readme
- ![image](https://user-images.githubusercontent.com/79206783/113358950-23ddb880-931d-11eb-916e-34e936bf6af2.png)
+![image](https://user-images.githubusercontent.com/79206783/113359792-e712c100-931e-11eb-8f91-f1596dcf8d3a.png)
 
-Hytalo Dos Santos  
-Short Bio  
- ![image](https://user-images.githubusercontent.com/79206783/113359018-45d73b00-931d-11eb-99d2-333cffc0251a.png)
+Giulia Nobre
+Configuração de código
+Projetou 
 
-Marcos Guido  
-Documentou o trabalho  
- ![image](https://user-images.githubusercontent.com/79206783/113359231-bd0ccf00-931d-11eb-95d7-0af4e290c8e8.png)
+![image](https://user-images.githubusercontent.com/79206783/113359842-fdb91800-931e-11eb-839c-4ee70ebddd78.png)
 
+Hytalo Dos Santos 
+Short Bio 
 
+![image](https://user-images.githubusercontent.com/79206783/113359881-1295ab80-931f-11eb-8456-856ee9bd3104.png)
+
+Marcos Guido 
+Documentou
+
+![image](https://user-images.githubusercontent.com/79206783/113359934-27723f00-931f-11eb-8416-39857c714e52.png)
